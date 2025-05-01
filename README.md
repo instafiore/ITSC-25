@@ -7,17 +7,10 @@ The default settings are the same used for the related results achieved in the p
 The default map is acosta (Bologna)
 Results can be found in the file: results.csv
 
-
-## Submodules
-This repository uses submodules. To clone the repository with submodules, use the following command:
-```bash
-git submodule update --init --recursive
-```
-
 ## Dependencies
 1. ```conda 23.7.2```
 2. ```clingo 5.7.0```
-3. ```Eclipse SUMO sumo 1.11.0```
+3. ```Eclipse SUMO sumo 1.22.0```
 
 ## How to install
 
