@@ -1,0 +1,26 @@
+2025-04-28_10-24-33
+New experiment
+2025-04-28 10:24:33,862 - INFO - input file: maps/MK-sim/MK_sim.sumocfg
+2025-04-28 10:24:33,862 - INFO - network file: maps/MK-sim/net.net.xml
+2025-04-28 10:24:33,867 - DEBUG - Emission awareness enabled
+2025-04-28 10:24:35,230 - DEBUG - there are 0 vehicles on edge, 0 vehicles on street [189[1][1]]
+2025-04-28 10:24:35,230 - DEBUG - - Step 0 - #Vehicles: 5 = 5 new + 0 inside = 5. 0 left. 0 teleported
+2025-04-28 10:24:35,231 - DEBUG - Step 0-1 - Vehicle V6ToEastH6.0
+2025-04-28 10:24:36,154 - INFO - File /home/salfiorentino/tplp-traffic/python/tests/exp/current/encodings/0000-01-V6ToEastH6.0-2.lp saved locally.
+2025-04-28 10:24:36,319 - DEBUG - Step 0-2 - Vehicle WestA509ToAvebury.0
+2025-04-28 10:24:36,809 - INFO - File /home/salfiorentino/tplp-traffic/python/tests/exp/current/encodings/0000-02-WestA509ToAvebury.0-2.lp saved locally.
+2025-04-28 10:24:36,975 - DEBUG - Step 0-3 - Vehicle EastA509ToH6.0
+2025-04-28 10:24:38,856 - INFO - File /home/salfiorentino/tplp-traffic/python/tests/exp/current/encodings/0000-03-EastA509ToH6.0-2.lp saved locally.
+2025-04-28 10:24:39,023 - DEBUG - Step 0-4 - Vehicle WestH6ToSaxonSt.0
+2025-04-28 10:24:39,586 - INFO - File /home/salfiorentino/tplp-traffic/python/tests/exp/current/encodings/0000-04-WestH6ToSaxonSt.0-2.lp saved locally.
+2025-04-28 10:24:39,754 - DEBUG - Step 0-5 - Vehicle SouthEvansGateToSilbury.0
+2025-04-28 10:24:40,402 - INFO - File /home/salfiorentino/tplp-traffic/python/tests/exp/current/encodings/0000-05-SouthEvansGateToSilbury.0-2.lp saved locally.
+2025-04-28 10:24:40,572 - DEBUG - Step 0 - Elapsed time: 5.341470241546631
+2025-04-28 10:24:40,574 - INFO - File /home/salfiorentino/tplp-traffic/python/tests/exp/current/checkpoints/0000.json saved locally.
+2025-04-28 10:24:40,576 - INFO - File /home/salfiorentino/tplp-traffic/python/tests/exp/current/solutions/0000.xml saved locally.
+2025-04-28 10:24:40,577 - DEBUG - Emissions: 0.01312361111111111 Kg
+2025-04-28 10:24:40,578 - DEBUG - there are 0 vehicles on edge, 0 vehicles on street [189[1][1]]
+2025-04-28 10:24:40,579 - DEBUG - - Step 1 - #Vehicles: 5 = 0 new + 5 inside = 5. 0 left. 0 teleported
+2025-04-28 10:24:40,579 - INFO - File /home/salfiorentino/tplp-traffic/python/tests/exp/current/solutions/0001.xml saved locally.
+2025-04-28 10:24:40,580 - DEBUG - Emissions: 0.026247222222222224 Kg
+2025-04-28 10:24:40,580 - DEBUG - Emissions: 0.026247222222222224 Kg

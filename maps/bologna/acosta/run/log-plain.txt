@@ -1,0 +1,14 @@
+Loading net-file from '/Users/instafiore/Git/tplp-traffic/maps/bologna/acosta/run/../netedit/acosta_buslanes.net.xml' ... done (19ms).
+Loading additional-files from '/Users/instafiore/Git/tplp-traffic/maps/bologna/acosta/run/../netedit/acosta_vtypes.add.xml' ... done (1ms).
+Loading route-files incrementally from '/Users/instafiore/Git/tplp-traffic/maps/bologna/acosta/run/routes-e.xml'
+Loading done.
+Simulation started with time: 0.00.
+Simulation ended at time: 1052.00.
+Performance:
+ Duration: 11.77s
+ Real time factor: 89.3798
+ UPS: 53856.754460
+Vehicles:
+ Inserted: 2085 (Loaded: 2888)
+ Running: 867
+ Waiting: 419

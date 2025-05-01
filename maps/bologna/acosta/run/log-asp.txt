@@ -1,0 +1,656 @@
+Loading net-file from '/Users/instafiore/Git/tplp-traffic/maps/bologna/acosta/run/../netedit/acosta_buslanes.net.xml' ... done (30ms).
+Loading additional-files from '/Users/instafiore/Git/tplp-traffic/maps/bologna/acosta/run/../netedit/acosta_vtypes.add.xml' ... done (1ms).
+Loading route-files incrementally from '/Users/instafiore/Git/tplp-traffic/maps/bologna/acosta/run/solutions/aspEmissionsAware/final-3011.rou.xml'
+Loading done.
+Simulation started with time: 0.00.
+Warning: Teleporting vehicle 'Audinot_3_8'; waited too long (yield), lane='35_0', time=992.00.
+Warning: Vehicle 'Audinot_3_8' ends teleporting on edge '38', time=992.00.
+Warning: Teleporting vehicle 'Pepoli_10_258'; waited too long (yield), lane='197_0', time=1358.00.
+Warning: Teleporting vehicle 'Costa_8_304'; waited too long (jam), lane='186_0', time=1360.00.
+Warning: Teleporting vehicle 'Togliatti_10_355'; waited too long (yield), lane='66_0', time=1417.00.
+Warning: Vehicle 'Costa_8_304' ends teleporting on edge '46', time=1445.00.
+Warning: Vehicle 'Pepoli_10_258' ends teleporting on edge '46', time=1474.00.
+Warning: Teleporting vehicle 'Togliatti_3_546'; waited too long (yield), lane='113_0', time=1534.00.
+Warning: Vehicle 'Togliatti_10_355' ends teleporting on edge '116', time=1578.00.
+Warning: Teleporting vehicle 'Pepoli_11_110'; waited too long (yield), lane='153_0', time=1619.00.
+Warning: Vehicle 'Togliatti_3_546' ends teleporting on edge '118', time=1620.00.
+Warning: Teleporting vehicle 'Pepoli_12_132'; waited too long (yield), lane='10_0', time=1799.00.
+Warning: Vehicle 'Pepoli_12_132' ends teleporting on edge '24', time=1848.00.
+Warning: Teleporting vehicle 'Silvani_3_267'; waited too long (jam), lane='113_0', time=1854.00.
+Warning: Teleporting vehicle 'Audinot_10_62'; waited too long (yield), lane='131_0', time=1886.00.
+Warning: Teleporting vehicle 'Pepoli_11_352'; waited too long (jam), lane='118_0', time=1907.00.
+Warning: Vehicle 'Silvani_3_267' ends teleporting on edge '118', time=1907.00.
+Warning: Teleporting vehicle 'Turati_9_27'; waited too long (yield), lane='66_0', time=1910.00.
+Warning: Teleporting vehicle 'Costa_70_309'; waited too long (jam), lane='58[1]_0', time=1919.00.
+Warning: Vehicle 'Costa_70_309' ends teleporting on edge '66', time=1922.00.
+Warning: Teleporting vehicle 'Togliatti_3_779'; waited too long (yield), lane='18_1', time=1925.00.
+Warning: Vehicle 'Togliatti_3_779' ends teleporting on edge '69', time=1925.00.
+Warning: Teleporting vehicle 'Pepoli_12_415'; waited too long (yield), lane='43[0]_2', time=1928.00.
+Warning: Vehicle 'Pepoli_12_415' ends teleporting on edge '118', time=1930.00.
+Warning: Vehicle 'Pepoli_11_110' ends teleporting on edge '201', time=1938.00.
+Warning: Teleporting vehicle 'XXI_Aprile_7_416'; waited too long (yield), lane='104_1', time=1959.00.
+Warning: Teleporting vehicle 'XXI_Aprile_7_145'; waited too long (yield), lane='153_0', time=1977.00.
+Warning: Teleporting vehicle 'XXI_Aprile_7_335'; waited too long (yield), lane='160_0', time=1990.00.
+Warning: Vehicle 'XXI_Aprile_7_335' ends teleporting on edge '61', time=1990.00.
+Warning: Teleporting vehicle 'Togliatti_10_510'; waited too long (yield), lane='72[1]_1', time=1994.00.
+Warning: Vehicle 'Togliatti_10_510' ends teleporting on edge '69', time=1994.00.
+Warning: Teleporting vehicle 'Togliatti_9_514'; waited too long (yield), lane='72[0]_2', time=1996.00.
+Warning: Vehicle 'Togliatti_9_514' ends teleporting on edge '72[1]', time=1996.00.
+Warning: Teleporting vehicle 'Togliatti_10_566'; waited too long (jam), lane='41_0', time=2026.00.
+Warning: Vehicle 'XXI_Aprile_7_416' ends teleporting on edge '24', time=2047.00.
+Warning: Teleporting vehicle 'XXI_Aprile_1_362'; waited too long (yield), lane='59_0', time=2099.00.
+Warning: Vehicle 'Pepoli_11_352' ends teleporting on edge '116', time=2110.00.
+Warning: Teleporting vehicle 'Pepoli_11_238'; waited too long (yield), lane='119_0', time=2151.00.
+Warning: Teleporting vehicle 'Costa_70_353'; waited too long (yield), lane='194_0', time=2182.00.
+Warning: Vehicle 'XXI_Aprile_1_362' ends teleporting on edge '191', time=2190.00.
+Warning: Teleporting vehicle 'Costa_70_554'; waited too long (yield), lane='56b_0', time=2195.00.
+Warning: Vehicle 'Costa_70_554' ends teleporting on edge '77bc', time=2195.00.
+Warning: Teleporting vehicle 'XXI_Aprile_7_147'; waited too long (yield), lane='153_0', time=2282.00.
+Warning: Vehicle 'Audinot_10_62' ends teleporting on edge '201', time=2294.00.
+Warning: Teleporting vehicle 'Togliatti_10_511'; waited too long (yield), lane='72[1]_1', time=2299.00.
+Warning: Vehicle 'Togliatti_10_511' ends teleporting on edge '69', time=2299.00.
+Warning: Teleporting vehicle 'Togliatti_9_515'; waited too long (yield), lane='72[0]_2', time=2301.00.
+Warning: Vehicle 'Togliatti_9_515' ends teleporting on edge '72[1]', time=2301.00.
+Warning: Vehicle 'Pepoli_11_238' ends teleporting on edge '201', time=2315.00.
+Warning: Vehicle 'Turati_9_27' ends teleporting on edge '201', time=2319.00.
+Warning: Vehicle 'XXI_Aprile_7_145' ends teleporting on edge '46', time=2325.00.
+Warning: Vehicle 'Costa_70_353' ends teleporting on edge '120', time=2358.00.
+Warning: Teleporting vehicle 'XXI_Aprile_104_426'; waited too long (yield), lane='104_1', time=2386.00.
+Warning: Teleporting vehicle 'Pepoli_10_144'; waited too long (yield), lane='10_0', time=2386.00.
+Warning: Teleporting vehicle 'Pepoli_12_63'; waited too long (yield), lane='59_0', time=2403.00.
+Warning: Vehicle 'Pepoli_12_63' ends teleporting on edge '53cd', time=2403.00.
+Warning: Vehicle 'Togliatti_10_566' ends teleporting on edge '61', time=2437.00.
+Warning: Teleporting vehicle 'Audinot_12_30'; waited too long (yield), lane='50_0', time=2445.00.
+Warning: Teleporting vehicle 'Audinot_10_68'; waited too long (yield), lane='131_0', time=2496.00.
+Warning: Teleporting vehicle 'Costa_70_556'; waited too long (yield), lane='56b_0', time=2499.00.
+Warning: Vehicle 'Costa_70_556' ends teleporting on edge '77bc', time=2499.00.
+Warning: Teleporting vehicle 'Audinot_12_38'; waited too long (yield), lane='15_0', time=2519.00.
+Warning: Teleporting vehicle 'Silvani_3_268'; waited too long (yield), lane='35_0', time=2549.00.
+Warning: Teleporting vehicle 'XXI_Aprile_7_148'; waited too long (jam), lane='153_0', time=2586.00.
+Warning: Vehicle 'Audinot_12_30' ends teleporting on edge '59', time=2586.00.
+Warning: Vehicle 'Pepoli_10_144' ends teleporting on edge '59', time=2593.00.
+Warning: Vehicle 'XXI_Aprile_7_147' ends teleporting on edge '46', time=2630.00.
+Warning: Vehicle 'XXI_Aprile_104_426' ends teleporting on edge '59', time=2663.00.
+Warning: Vehicle 'Silvani_3_268' ends teleporting on edge '33', time=2668.00.
+Warning: Teleporting vehicle 'XXI_Aprile_103_380'; waited too long (yield), lane='59_0', time=2707.00.
+Warning: Vehicle 'Audinot_10_68' ends teleporting on edge '116', time=2756.00.
+Warning: Teleporting vehicle 'XXI_Aprile_1_430'; waited too long (yield), lane='104_1', time=2760.00.
+Warning: Teleporting vehicle 'Pepoli_10_225'; waited too long (yield), lane='10_0', time=2763.00.
+Warning: Vehicle 'XXI_Aprile_1_430' ends teleporting on edge '24', time=2763.00.
+Warning: Vehicle 'XXI_Aprile_7_148' ends teleporting on edge '186', time=2774.00.
+Warning: Vehicle 'Audinot_12_38' ends teleporting on edge '59', time=2796.00.
+Warning: Vehicle 'XXI_Aprile_103_380' ends teleporting on edge '191', time=2798.00.
+Warning: Vehicle 'Pepoli_10_225' ends teleporting on edge '59', time=2970.00.
+Warning: Teleporting vehicle 'Costa_50_363'; waited too long (yield), lane='120_0', time=3065.00.
+Warning: Teleporting vehicle 'Silvani_1_690'; waited too long (yield), lane='113_0', time=3069.00.
+Warning: Teleporting vehicle 'XXI_Aprile_7_208'; waited too long (jam), lane='153_0', time=3146.00.
+Warning: Vehicle 'Costa_50_363' ends teleporting on edge '200', time=3165.00.
+Warning: Vehicle 'Silvani_1_690' ends teleporting on edge '65', time=3199.00.
+Warning: Teleporting vehicle 'Pepoli_3_1082'; waited too long (jam), lane='118_0', time=3259.00.
+Warning: Teleporting vehicle 'Togliatti_10_335'; waited too long (yield), lane='66_0', time=3262.00.
+Warning: Teleporting vehicle 'Audinot_3_75'; waited too long (yield), lane='131_0', time=3269.00.
+Warning: Teleporting vehicle 'Costa_70_321'; waited too long (jam), lane='58[1]_0', time=3274.00.
+Warning: Teleporting vehicle 'Pepoli_3_1163'; waited too long (yield), lane='43[0]_2', time=3278.00.
+Warning: Vehicle 'Pepoli_3_1163' ends teleporting on edge '118', time=3279.00.
+Warning: Vehicle 'Costa_70_321' ends teleporting on edge '66', time=3280.00.
+Warning: Teleporting vehicle 'Pepoli_11_204'; waited too long (yield), lane='19_0', time=3361.00.
+Warning: Teleporting vehicle 'Pepoli_12_266'; waited too long (yield), lane='50_0', time=3368.00.
+Warning: Teleporting vehicle 'Costa_50_366'; waited too long (yield), lane='120_0', time=3370.00.
+Warning: Teleporting vehicle 'Silvani_2_609'; waited too long (yield), lane='57[1]_0', time=3409.00.
+Warning: Vehicle 'Pepoli_11_204' ends teleporting on edge '59', time=3439.00.
+Warning: Teleporting vehicle 'Pepoli_3_1030'; waited too long (jam), lane='65_0', time=3442.00.
+Warning: Vehicle 'Costa_50_366' ends teleporting on edge '65', time=3442.00.
+Warning: Teleporting vehicle 'XXI_Aprile_7_217'; waited too long (yield), lane='153_0', time=3451.00.
+Warning: Vehicle 'Togliatti_10_335' ends teleporting on edge '116', time=3464.00.
+Warning: Vehicle 'XXI_Aprile_7_208' ends teleporting on edge '46', time=3477.00.
+Warning: Teleporting vehicle 'XXI_Aprile_7_132'; waited too long (yield), lane='46_0', time=3492.00.
+Warning: Vehicle 'XXI_Aprile_7_132' ends teleporting on edge '113', time=3492.00.
+Warning: Vehicle 'Silvani_2_609' ends teleporting on edge '62', time=3496.00.
+Warning: Vehicle 'Pepoli_12_266' ends teleporting on edge '59', time=3509.00.
+Warning: Teleporting vehicle 'Silvani_3_739'; waited too long (yield), lane='113_0', time=3583.00.
+Warning: Teleporting vehicle 'Pepoli_12_1166'; waited too long (jam), lane='43[0]_2', time=3584.00.
+Warning: Teleporting vehicle 'Silvani_1_821'; waited too long (yield), lane='34_0', time=3597.00.
+Warning: Vehicle 'Silvani_1_821' ends teleporting on edge '113', time=3598.00.
+Warning: Teleporting vehicle 'Togliatti_10_560'; waited too long (yield), lane='72[0]_2', time=3621.00.
+Warning: Vehicle 'Togliatti_10_560' ends teleporting on edge '72[1]', time=3621.00.
+Warning: Teleporting vehicle 'Togliatti_10_555'; waited too long (yield), lane='72[1]_1', time=3629.00.
+Warning: Vehicle 'Togliatti_10_555' ends teleporting on edge '69', time=3629.00.
+Warning: Vehicle 'Pepoli_3_1082' ends teleporting on edge '62', time=3641.00.
+Warning: Vehicle 'Audinot_3_75' ends teleporting on edge '62', time=3651.00.
+Warning: Teleporting vehicle 'Pepoli_3_1038'; waited too long (jam), lane='65_0', time=3750.00.
+Warning: Vehicle 'Silvani_3_739' ends teleporting on edge '65', time=3750.00.
+Warning: Teleporting vehicle 'XXI_Aprile_7_286'; waited too long (jam), lane='153_0', time=3756.00.
+Warning: Teleporting vehicle 'Pepoli_11_207'; waited too long (yield), lane='19_0', time=3760.00.
+Warning: Vehicle 'Pepoli_11_207' ends teleporting on edge '22', time=3762.00.
+Warning: Teleporting vehicle 'Pepoli_12_284'; waited too long (yield), lane='50_0', time=3769.00.
+Warning: Vehicle 'Pepoli_12_284' ends teleporting on edge '19', time=3778.00.
+Warning: Teleporting vehicle 'XXI_Aprile_7_134'; waited too long (yield), lane='46_0', time=3796.00.
+Warning: Vehicle 'XXI_Aprile_7_134' ends teleporting on edge '113', time=3796.00.
+Warning: Teleporting vehicle 'Silvani_1_618'; waited too long (jam), lane=':48_2_0', time=3801.00.
+Warning: Vehicle 'Silvani_1_618' ends teleporting on edge '62', time=3801.00.
+Warning: Vehicle 'Pepoli_3_1030' ends teleporting on edge '62', time=3809.00.
+Warning: Teleporting vehicle 'Togliatti_10_558'; waited too long (jam), lane='72[1]_1', time=3847.00.
+Warning: Vehicle 'Togliatti_10_558' ends teleporting on edge '69', time=3847.00.
+Warning: Vehicle 'XXI_Aprile_7_217' ends teleporting on edge '113', time=3872.00.
+Warning: Teleporting vehicle 'Silvani_3_743'; waited too long (jam), lane='113_0', time=3888.00.
+Warning: Teleporting vehicle 'Pepoli_5_1171'; waited too long (yield), lane='43[0]_2', time=3890.00.
+Warning: Teleporting vehicle 'Silvani_7_823'; waited too long (yield), lane='34_0', time=3902.00.
+Warning: Vehicle 'Silvani_7_823' ends teleporting on edge '113', time=3902.00.
+Warning: Teleporting vehicle 'Costa_50_534'; waited too long (yield), lane='189[1][1]_0', time=4031.00.
+Warning: Vehicle 'Costa_50_534' ends teleporting on edge '188', time=4031.00.
+Warning: Teleporting vehicle 'XXI_Aprile_7_407'; waited too long (yield), lane='59_0', time=4045.00.
+Warning: Teleporting vehicle 'Vittorio_Veneto_10_173'; waited too long (yield), lane='153_0', time=4060.00.
+Warning: Teleporting vehicle 'Pepoli_12_222'; waited too long (yield), lane='59_1', time=4063.00.
+Warning: Vehicle 'Pepoli_12_222' ends teleporting on edge '53[0]', time=4065.00.
+Warning: Teleporting vehicle 'Costa_50_371'; waited too long (yield), lane='120_0', time=4069.00.
+Warning: Teleporting vehicle 'Pepoli_3_1089'; waited too long (jam), lane='118_0', time=4071.00.
+Warning: Teleporting vehicle 'Audinot_12_57'; waited too long (jam), lane='24_0', time=4073.00.
+Warning: Teleporting vehicle 'Pepoli_2_296'; waited too long (yield), lane='50_0', time=4075.00.
+Warning: Vehicle 'Vittorio_Veneto_10_173' ends teleporting on edge '171', time=4076.00.
+Warning: Teleporting vehicle 'Audinot_9_80'; waited too long (yield), lane='131_0', time=4080.00.
+Warning: Teleporting vehicle 'Costa_50_613'; waited too long (yield), lane='56b_0', time=4086.00.
+Warning: Vehicle 'Costa_50_613' ends teleporting on edge '77bc', time=4086.00.
+Warning: Teleporting vehicle 'Silvani_1_451'; waited too long (jam), lane='38_0', time=4092.00.
+Warning: Teleporting vehicle 'XXI_Aprile_1_449'; waited too long (yield), lane='104_1', time=4099.00.
+Warning: Vehicle 'Silvani_1_451' ends teleporting on edge '50', time=4099.00.
+Warning: Vehicle 'XXI_Aprile_1_449' ends teleporting on edge '24', time=4101.00.
+Warning: Teleporting vehicle 'XXI_Aprile_113_133'; waited too long (yield), lane='119_0', time=4127.00.
+Warning: Vehicle 'Audinot_9_80' ends teleporting on edge '119', time=4127.00.
+Warning: Teleporting vehicle 'Turati_10_23'; waited too long (yield), lane='119_0', time=4128.00.
+Warning: Teleporting vehicle 'Pepoli_3_600'; waited too long (jam), lane='42_0', time=4132.00.
+Warning: Vehicle 'Pepoli_3_600' ends teleporting on edge '39', time=4133.00.
+Warning: Teleporting vehicle 'Pepoli_3_1043'; waited too long (jam), lane='65_0', time=4141.00.
+Warning: Vehicle 'Costa_50_371' ends teleporting on edge '65', time=4141.00.
+Warning: Vehicle 'Pepoli_5_1171' ends teleporting on edge '200', time=4149.00.
+Warning: Vehicle 'Audinot_12_57' ends teleporting on edge '59', time=4151.00.
+Warning: Teleporting vehicle 'Pepoli_11_204'; waited too long (yield), lane='72[1]_1', time=4155.00.
+Warning: Vehicle 'Pepoli_11_204' ends teleporting on edge '69', time=4155.00.
+Warning: Teleporting vehicle 'Togliatti_10_581'; waited too long (yield), lane='72[0]_2', time=4158.00.
+Warning: Vehicle 'Togliatti_10_581' ends teleporting on edge '72[1]', time=4158.00.
+Warning: Vehicle 'XXI_Aprile_7_286' ends teleporting on edge '113', time=4179.00.
+Warning: Teleporting vehicle 'Pepoli_3_1176'; waited too long (yield), lane='43[0]_2', time=4194.00.
+Warning: Vehicle 'XXI_Aprile_113_133' ends teleporting on edge '46', time=4203.00.
+Warning: Vehicle 'Turati_10_23' ends teleporting on edge '46', time=4204.00.
+Warning: Teleporting vehicle 'Togliatti_71_444'; waited too long (yield), lane='46_0', time=4207.00.
+Warning: Vehicle 'Togliatti_71_444' ends teleporting on edge '113', time=4207.00.
+Warning: Vehicle 'Pepoli_2_296' ends teleporting on edge '59', time=4216.00.
+Warning: Vehicle 'Pepoli_3_1176' ends teleporting on edge '118', time=4278.00.
+Warning: Teleporting vehicle 'Costa_70_523'; waited too long (yield), lane='188_0', time=4304.00.
+Warning: Vehicle 'XXI_Aprile_7_407' ends teleporting on edge '188', time=4304.00.
+Warning: Teleporting vehicle 'XXI_Aprile_7_408'; waited too long (yield), lane='59_0', time=4349.00.
+Warning: Vehicle 'XXI_Aprile_7_408' ends teleporting on edge '53cd', time=4349.00.
+Warning: Teleporting vehicle 'Costa_70_540'; waited too long (jam), lane='189[1][1]_0', time=4358.00.
+Warning: Teleporting vehicle 'Pepoli_2_197'; waited too long (yield), lane='59_1', time=4367.00.
+Warning: Vehicle 'Pepoli_2_197' ends teleporting on edge '53cd', time=4367.00.
+Warning: Teleporting vehicle 'Silvani_1_128'; waited too long (yield), lane='19_0', time=4375.00.
+Warning: Teleporting vehicle 'XXI_Aprile_94_450'; waited too long (yield), lane='104_1', time=4404.00.
+Warning: Teleporting vehicle 'Costa_70_618'; waited too long (yield), lane='56b_0', time=4410.00.
+Warning: Vehicle 'Costa_70_618' ends teleporting on edge '77bc', time=4410.00.
+Warning: Teleporting vehicle 'Costa_70_524'; waited too long (jam), lane='188_0', time=4432.00.
+Warning: Vehicle 'Costa_70_524' ends teleporting on edge '87[0]', time=4432.00.
+Warning: Vehicle 'Costa_70_540' ends teleporting on edge '188', time=4443.00.
+Warning: Vehicle 'Silvani_1_128' ends teleporting on edge '59', time=4453.00.
+Warning: Teleporting vehicle 'Togliatti_10_564'; waited too long (yield), lane='72[1]_1', time=4459.00.
+Warning: Vehicle 'Togliatti_10_564' ends teleporting on edge '69', time=4459.00.
+Warning: Teleporting vehicle 'Togliatti_10_584'; waited too long (yield), lane='72[0]_2', time=4462.00.
+Warning: Vehicle 'Togliatti_10_584' ends teleporting on edge '72[1]', time=4462.00.
+Warning: Teleporting vehicle 'Togliatti_10_626'; waited too long (yield), lane='85_1', time=4493.00.
+Warning: Vehicle 'Togliatti_10_626' ends teleporting on edge '72[0]', time=4493.00.
+Warning: Teleporting vehicle 'Pepoli_3_1177'; waited too long (yield), lane='43[0]_2', time=4499.00.
+Warning: Teleporting vehicle 'Pepoli_12_1120'; waited too long (jam), lane='118_0', time=4571.00.
+Warning: Vehicle 'Pepoli_3_1177' ends teleporting on edge '118', time=4571.00.
+Warning: Teleporting vehicle 'Audinot_12_82'; waited too long (yield), lane='131_0', time=4577.00.
+Warning: Vehicle 'Costa_70_523' ends teleporting on edge '46', time=4581.00.
+Warning: Teleporting vehicle 'Silvani_3_812'; waited too long (yield), lane='113_0', time=4589.00.
+Warning: Teleporting vehicle 'Pepoli_12_224'; waited too long (yield), lane='19_0', time=4679.00.
+Warning: Vehicle 'XXI_Aprile_94_450' ends teleporting on edge '59', time=4681.00.
+Warning: Vehicle 'Pepoli_12_224' ends teleporting on edge '22', time=4694.00.
+Warning: Teleporting vehicle 'Togliatti_2_521'; waited too long (yield), lane='120_0', time=4710.00.
+Warning: Vehicle 'Pepoli_3_1038' ends teleporting on edge '38', time=4724.00.
+Warning: Vehicle 'Togliatti_2_521' ends teleporting on edge '57[0]', time=4861.00.
+Warning: Vehicle 'Silvani_3_812' ends teleporting on edge '57[0]', time=4864.00.
+Warning: Teleporting vehicle 'Audinot_5_83'; waited too long (yield), lane='131_0', time=4881.00.
+Warning: Teleporting vehicle 'Pepoli_2_1194'; waited too long (yield), lane='43[0]_2', time=4895.00.
+Warning: Vehicle 'Audinot_5_83' ends teleporting on edge '200', time=4911.00.
+Warning: Teleporting vehicle 'Pepoli_8_143'; waited too long (jam), lane='24_0', time=4918.00.
+Warning: Vehicle 'Pepoli_8_143' ends teleporting on edge '59', time=4996.00.
+Warning: Teleporting vehicle 'Costa_50_384'; waited too long (yield), lane='120_0', time=5016.00.
+Warning: Vehicle 'Silvani_3_743' ends teleporting on edge '15', time=5042.00.
+Warning: Teleporting vehicle 'Costa_200_663'; waited too long (yield), lane='72[1]_1', time=5054.00.
+Warning: Vehicle 'Costa_200_663' ends teleporting on edge '69', time=5054.00.
+Warning: Teleporting vehicle 'Togliatti_10_597'; waited too long (yield), lane='72[0]_2', time=5055.00.
+Warning: Vehicle 'Togliatti_10_597' ends teleporting on edge '72[1]', time=5055.00.
+Warning: Vehicle 'Pepoli_12_1166' ends teleporting on edge '59', time=5106.00.
+Warning: Vehicle 'Pepoli_3_1089' ends teleporting on edge '15', time=5110.00.
+Warning: Vehicle 'Costa_50_384' ends teleporting on edge '200', time=5116.00.
+Warning: Teleporting vehicle 'Pepoli_11_517'; waited too long (jam), lane='153_0', time=5123.00.
+Warning: Vehicle 'Pepoli_11_517' ends teleporting on edge '171', time=5139.00.
+Warning: Teleporting vehicle 'Togliatti_5_630'; waited too long (yield), lane='194_0', time=5149.00.
+Warning: Teleporting vehicle 'Togliatti_73_796'; waited too long (jam), lane='89[1][1]_0', time=5154.00.
+Warning: Vehicle 'Pepoli_3_1043' ends teleporting on edge '15', time=5165.00.
+Warning: Teleporting vehicle 'Costa_70_556'; waited too long (jam), lane='m90_0', time=5179.00.
+Warning: Teleporting vehicle 'Costa_50_567'; waited too long (jam), lane='87[1][1]_0', time=5181.00.
+Warning: Teleporting vehicle 'Costa_50_580'; waited too long (yield), lane='188_0', time=5191.00.
+Warning: Vehicle 'Costa_50_580' ends teleporting on edge '87[0]', time=5191.00.
+Warning: Teleporting vehicle 'Costa_70_594'; waited too long (yield), lane='189[1][1]_0', time=5206.00.
+Warning: Vehicle 'Costa_70_594' ends teleporting on edge '188', time=5206.00.
+Warning: Teleporting vehicle 'Silvani_1_892'; waited too long (yield), lane='113_0', time=5212.00.
+Warning: Teleporting vehicle 'XXI_Aprile_12_390'; waited too long (yield), lane='59_0', time=5257.00.
+Warning: Teleporting vehicle 'Costa_70_678'; waited too long (yield), lane='56b_0', time=5263.00.
+Warning: Vehicle 'Costa_70_678' ends teleporting on edge '77bc', time=5263.00.
+Warning: Teleporting vehicle 'XXI_Aprile_2_428'; waited too long (yield), lane='59_1', time=5269.00.
+Warning: Vehicle 'XXI_Aprile_2_428' ends teleporting on edge '53cd', time=5269.00.
+Warning: Teleporting vehicle 'Togliatti_2_502'; waited too long (jam), lane=':21_0_0', time=5275.00.
+Warning: Vehicle 'Togliatti_2_502' ends teleporting on edge '59', time=5275.00.
+Warning: Teleporting vehicle 'XXI_Aprile_7_439'; waited too long (jam), lane='24_0', time=5287.00.
+Warning: Teleporting vehicle 'Audinot_2_59'; waited too long (yield), lane='50_0', time=5300.00.
+Warning: Teleporting vehicle 'Pepoli_11_282'; waited too long (yield), lane='19_0', time=5302.00.
+Warning: Vehicle 'Audinot_2_59' ends teleporting on edge '19', time=5302.00.
+Warning: Vehicle 'XXI_Aprile_7_439' ends teleporting on edge '59', time=5306.00.
+Warning: Teleporting vehicle 'Costa_50_386'; waited too long (yield), lane='120_0', time=5321.00.
+Warning: Teleporting vehicle 'Audinot_12_85'; waited too long (yield), lane='131_0', time=5326.00.
+Warning: Teleporting vehicle 'XXI_Aprile_9_108'; waited too long (yield), lane='1b_0', time=5338.00.
+Warning: Vehicle 'XXI_Aprile_9_108' ends teleporting on edge '1', time=5338.00.
+Warning: Vehicle 'XXI_Aprile_12_390' ends teleporting on edge '191', time=5343.00.
+Warning: Vehicle 'Togliatti_73_796' ends teleporting on edge '46', time=5356.00.
+Warning: Teleporting vehicle 'Togliatti_10_595'; waited too long (yield), lane='72[1]_1', time=5359.00.
+Warning: Teleporting vehicle 'Togliatti_10_598'; waited too long (yield), lane='72[0]_2', time=5359.00.
+Warning: Vehicle 'Togliatti_10_595' ends teleporting on edge '69', time=5359.00.
+Warning: Vehicle 'Togliatti_10_598' ends teleporting on edge '72[1]', time=5359.00.
+Warning: Vehicle 'Pepoli_12_1120' ends teleporting on edge '42', time=5367.00.
+Warning: Vehicle 'Costa_50_386' ends teleporting on edge '200', time=5421.00.
+Warning: Vehicle 'Pepoli_11_282' ends teleporting on edge '53cd', time=5486.00.
+Warning: Vehicle 'Togliatti_5_630' ends teleporting on edge '200', time=5511.00.
+Warning: Teleporting vehicle 'Silvani_1_943'; waited too long (jam), lane='113_0', time=5517.00.
+Warning: Teleporting vehicle 'Pepoli_11_517'; waited too long (wrong lane), lane='122_0', time=5540.00.
+Warning: Vehicle 'Pepoli_11_517' ends teleporting on edge '1b', time=5554.00.
+Warning: Teleporting vehicle 'XXI_Aprile_7_416'; waited too long (yield), lane='59_0', time=5561.00.
+Warning: Vehicle 'Audinot_12_82' ends teleporting on edge '38', time=5581.00.
+Warning: Vehicle 'Costa_70_556' ends teleporting on edge '46', time=5604.00.
+Warning: Teleporting vehicle 'Costa_50_397'; waited too long (yield), lane='120_0', time=5629.00.
+Warning: Teleporting vehicle 'Audinot_3_88'; waited too long (yield), lane='131_0', time=5632.00.
+Warning: Teleporting vehicle 'Togliatti_73_796'; waited too long (yield), lane='46_0', time=5665.00.
+Warning: Vehicle 'Togliatti_73_796' ends teleporting on edge '113', time=5665.00.
+Warning: Teleporting vehicle 'Pepoli_10_225'; waited too long (yield), lane='194_0', time=5690.00.
+Warning: Vehicle 'Costa_50_567' ends teleporting on edge '200', time=5691.00.
+Warning: Teleporting vehicle 'Pepoli_10_515'; waited too long (jam), lane='87[1][1]_0', time=5714.00.
+Warning: Teleporting vehicle 'Costa_50_583'; waited too long (yield), lane='188_0', time=5722.00.
+Warning: Vehicle 'XXI_Aprile_7_416' ends teleporting on edge '188', time=5722.00.
+Warning: Vehicle 'Costa_50_583' ends teleporting on edge '87[0]', time=5722.00.
+Warning: Vehicle 'Costa_50_397' ends teleporting on edge '65', time=5724.00.
+Warning: Vehicle 'Audinot_3_88' ends teleporting on edge '65', time=5728.00.
+Warning: Vehicle 'Silvani_1_943' ends teleporting on edge '65', time=5737.00.
+Warning: Teleporting vehicle 'Costa_70_600'; waited too long (yield), lane='189[1][1]_0', time=5739.00.
+Warning: Vehicle 'Pepoli_10_515' ends teleporting on edge '171', time=5739.00.
+Warning: Teleporting vehicle 'Costa_70_584'; waited too long (jam), lane='188_0', time=5782.00.
+Warning: Vehicle 'Costa_70_584' ends teleporting on edge '87[0]', time=5782.00.
+Warning: Vehicle 'Costa_70_600' ends teleporting on edge '188', time=5782.00.
+Warning: Teleporting vehicle 'Pepoli_2_1217'; waited too long (yield), lane='43[0]_2', time=5807.00.
+Warning: Teleporting vehicle 'Pepoli_8_143'; waited too long (wrong lane), lane='53[0]_1', time=5816.00.
+Warning: Teleporting vehicle 'XXI_Aprile_7_447'; waited too long (jam), lane='24_0', time=5892.00.
+Warning: Teleporting vehicle 'Silvani_1_178'; waited too long (yield), lane='19_0', time=5897.00.
+Warning: Teleporting vehicle 'Pepoli_12_410'; waited too long (yield), lane='50_0', time=5906.00.
+Warning: Teleporting vehicle 'XXI_Aprile_7_469'; waited too long (yield), lane='104_1', time=5909.00.
+Warning: Vehicle 'XXI_Aprile_7_469' ends teleporting on edge '24', time=5922.00.
+Warning: Vehicle 'Pepoli_10_225' ends teleporting on edge '201', time=5938.00.
+Warning: Teleporting vehicle 'Silvani_1_618'; waited too long (jam), lane='62_0', time=5966.00.
+Warning: Vehicle 'XXI_Aprile_7_447' ends teleporting on edge '59', time=5970.00.
+Warning: Teleporting vehicle 'Turati_1_87'; waited too long (yield), lane='195_0', time=5973.00.
+Warning: Vehicle 'Silvani_1_178' ends teleporting on edge '59', time=5975.00.
+Warning: Teleporting vehicle 'Pepoli_12_987'; waited too long (yield), lane='57[1]_0', time=5991.00.
+Warning: Vehicle 'Pepoli_12_987' ends teleporting on edge '62', time=5998.00.
+Warning: Vehicle 'Pepoli_12_410' ends teleporting on edge '59', time=6047.00.
+Warning: Teleporting vehicle 'Costa_50_448'; waited too long (yield), lane='120_0', time=6071.00.
+Warning: Teleporting vehicle 'Audinot_3_93'; waited too long (yield), lane='131_0', time=6073.00.
+Warning: Vehicle 'Costa_50_448' ends teleporting on edge '65', time=6088.00.
+Warning: Teleporting vehicle 'XXI_Aprile_7_418'; waited too long (yield), lane='59_0', time=6154.00.
+Warning: Vehicle 'Pepoli_8_143' ends teleporting on edge '87[0]', time=6166.00.
+Warning: Teleporting vehicle 'Costa_8_603'; waited too long (yield), lane='188_0', time=6168.00.
+Warning: Vehicle 'Costa_8_603' ends teleporting on edge '87[0]', time=6169.00.
+Warning: Teleporting vehicle 'Costa_70_624'; waited too long (yield), lane='189[1][1]_0', time=6177.00.
+Warning: Vehicle 'Costa_70_624' ends teleporting on edge '188', time=6179.00.
+Warning: Vehicle 'Audinot_12_85' ends teleporting on edge '38', time=6252.00.
+Warning: Vehicle 'Silvani_1_618' ends teleporting on edge '42', time=6280.00.
+Warning: Teleporting vehicle 'Pepoli_12_915'; waited too long (jam), lane='62_0', time=6323.00.
+Warning: Teleporting vehicle 'Turati_1_94'; waited too long (yield), lane='195_0', time=6333.00.
+Warning: Vehicle 'Pepoli_2_1194' ends teleporting on edge '59', time=6342.00.
+Warning: Teleporting vehicle 'Silvani_3_739'; waited too long (yield), lane='57[1]_0', time=6347.00.
+Warning: Vehicle 'Audinot_3_93' ends teleporting on edge '57[1]', time=6347.00.
+Warning: Teleporting vehicle 'Silvani_1_981'; waited too long (jam), lane='113_0', time=6365.00.
+Warning: Teleporting vehicle 'Audinot_3_94'; waited too long (yield), lane='131_0', time=6378.00.
+Warning: Teleporting vehicle 'Pepoli_3_1176'; waited too long (jam), lane='118_0', time=6392.00.
+Warning: Vehicle 'Silvani_1_981' ends teleporting on edge '118', time=6392.00.
+Warning: Teleporting vehicle 'Costa_50_457'; waited too long (yield), lane='120_0', time=6398.00.
+Warning: Teleporting vehicle 'Pepoli_12_1252'; waited too long (yield), lane='43[0]_2', time=6413.00.
+Warning: Teleporting vehicle 'Costa_50_528'; waited too long (jam), lane='109[1][1]_0', time=6421.00.
+Warning: Teleporting vehicle 'Pepoli_8_256'; waited too long (jam), lane='89[1][1]_0', time=6449.00.
+Warning: Teleporting vehicle 'Pepoli_8_206'; waited too long (yield), lane='59_0', time=6460.00.
+Warning: Teleporting vehicle 'Costa_70_594'; waited too long (jam), lane='m90_0', time=6474.00.
+Warning: Vehicle 'Costa_50_457' ends teleporting on edge '200', time=6498.00.
+Warning: Vehicle 'Pepoli_8_206' ends teleporting on edge '188', time=6539.00.
+Warning: Vehicle 'Silvani_1_892' ends teleporting on edge '19', time=6591.00.
+Warning: Vehicle 'Pepoli_8_256' ends teleporting on edge '116', time=6623.00.
+Warning: Teleporting vehicle 'Silvani_3_1017'; waited too long (yield), lane='113_0', time=6670.00.
+Warning: Teleporting vehicle 'Audinot_3_95'; waited too long (yield), lane='131_0', time=6682.00.
+Warning: Vehicle 'Pepoli_12_1252' ends teleporting on edge '57[0]', time=6682.00.
+Warning: Vehicle 'XXI_Aprile_7_418' ends teleporting on edge '116', time=6683.00.
+Warning: Vehicle 'Costa_50_528' ends teleporting on edge '65', time=6696.00.
+Warning: Teleporting vehicle 'Pepoli_3_1261'; waited too long (yield), lane='43[0]_2', time=6717.00.
+Warning: Teleporting vehicle 'Togliatti_9_642'; waited too long (yield), lane='72[1]_1', time=6763.00.
+Warning: Vehicle 'Togliatti_9_642' ends teleporting on edge '69', time=6763.00.
+Warning: Teleporting vehicle 'Togliatti_10_649'; waited too long (yield), lane='72[0]_2', time=6764.00.
+Warning: Vehicle 'Togliatti_10_649' ends teleporting on edge '72[1]', time=6764.00.
+Warning: Vehicle 'Pepoli_3_1261' ends teleporting on edge '118', time=6768.00.
+Warning: Vehicle 'Costa_70_594' ends teleporting on edge '116', time=6795.00.
+Warning: Teleporting vehicle 'Costa_50_648'; waited too long (yield), lane='188_0', time=6823.00.
+Warning: Vehicle 'Costa_50_648' ends teleporting on edge '87[0]', time=6823.00.
+Warning: Teleporting vehicle 'Pepoli_12_421'; waited too long (yield), lane='50_0', time=6865.00.
+Warning: Teleporting vehicle 'Audinot_12_55'; waited too long (yield), lane='19_0', time=6878.00.
+Warning: Vehicle 'Turati_1_87' ends teleporting on edge '19', time=6878.00.
+Warning: Vehicle 'Pepoli_12_421' ends teleporting on edge '19', time=6932.00.
+Warning: Vehicle 'Audinot_12_55' ends teleporting on edge '59', time=6956.00.
+Warning: Teleporting vehicle 'Audinot_1_96'; waited too long (yield), lane='131_0', time=6987.00.
+Warning: Vehicle 'Silvani_3_739' ends teleporting on edge '39', time=6991.00.
+Warning: Teleporting vehicle 'Costa_50_465'; waited too long (yield), lane='120_0', time=7008.00.
+Warning: Teleporting vehicle 'Pepoli_3_1297'; waited too long (yield), lane='43[0]_2', time=7066.00.
+Warning: Vehicle 'Costa_50_465' ends teleporting on edge '200', time=7108.00.
+Warning: Teleporting vehicle 'Costa_70_594'; waited too long (yield), lane='46_0', time=7109.00.
+Warning: Vehicle 'Costa_70_594' ends teleporting on edge '113', time=7109.00.
+Warning: Teleporting vehicle 'Pepoli_1_357'; waited too long (yield), lane='19_0', time=7227.00.
+Warning: Vehicle 'Pepoli_12_915' ends teleporting on edge '19', time=7227.00.
+Warning: Teleporting vehicle 'Pepoli_2_445'; waited too long (yield), lane='50_0', time=7236.00.
+Warning: Vehicle 'Pepoli_1_357' ends teleporting on edge '59', time=7305.00.
+Warning: Vehicle 'Turati_1_94' ends teleporting on edge '59', time=7313.00.
+Warning: Vehicle 'Pepoli_2_1217' ends teleporting on edge '59', time=7329.00.
+Warning: Teleporting vehicle 'Pepoli_2_972'; waited too long (jam), lane='62_0', time=7338.00.
+Warning: Teleporting vehicle 'Pepoli_3_1242'; waited too long (jam), lane='118_0', time=7369.00.
+Warning: Vehicle 'Audinot_1_96' ends teleporting on edge '62', time=7369.00.
+Warning: Teleporting vehicle 'Costa_50_470'; waited too long (yield), lane='120_0', time=7372.00.
+Warning: Vehicle 'Pepoli_2_445' ends teleporting on edge '59', time=7377.00.
+Warning: Teleporting vehicle 'Audinot_3_100'; waited too long (yield), lane='131_0', time=7380.00.
+Warning: Teleporting vehicle 'Silvani_3_1187'; waited too long (yield), lane='113_0', time=7389.00.
+Warning: Vehicle 'Silvani_3_1187' ends teleporting on edge '118', time=7389.00.
+Warning: Teleporting vehicle 'Silvani_1_1196'; waited too long (jam), lane='113_0', time=7398.00.
+Warning: Vehicle 'Audinot_3_94' ends teleporting on edge '15', time=7417.00.
+Warning: Teleporting vehicle 'Togliatti_3_746'; waited too long (yield), lane='194_0', time=7431.00.
+Warning: Vehicle 'Pepoli_3_1176' ends teleporting on edge '15', time=7431.00.
+Warning: Vehicle 'Togliatti_3_746' ends teleporting on edge '173', time=7454.00.
+Warning: Teleporting vehicle 'Costa_70_652'; waited too long (jam), lane='m90_0', time=7462.00.
+Warning: Teleporting vehicle 'Costa_50_656'; waited too long (jam), lane='87[1][1]_0', time=7464.00.
+Warning: Vehicle 'Costa_50_470' ends teleporting on edge '200', time=7472.00.
+Warning: Teleporting vehicle 'XXI_Aprile_7_427'; waited too long (yield), lane='59_0', time=7477.00.
+Warning: Teleporting vehicle 'XXI_Aprile_9_500'; waited too long (yield), lane='104_1', time=7521.00.
+Warning: Vehicle 'XXI_Aprile_9_500' ends teleporting on edge '24', time=7528.00.
+Warning: Teleporting vehicle 'Pepoli_12_366'; waited too long (yield), lane='19_0', time=7534.00.
+Warning: Teleporting vehicle 'Pepoli_2_450'; waited too long (yield), lane='50_0', time=7541.00.
+Warning: Vehicle 'Pepoli_2_450' ends teleporting on edge '19', time=7543.00.
+Warning: Teleporting vehicle 'Audinot_12_85'; waited too long (jam), lane='38_0', time=7558.00.
+Warning: Vehicle 'Pepoli_2_972' ends teleporting on edge '42', time=7607.00.
+Warning: Vehicle 'Pepoli_12_366' ends teleporting on edge '59', time=7612.00.
+Warning: Vehicle 'Audinot_3_95' ends teleporting on edge '15', time=7622.00.
+Warning: Vehicle 'Silvani_3_1017' ends teleporting on edge '15', time=7648.00.
+Warning: Teleporting vehicle 'Costa_50_471'; waited too long (yield), lane='120_0', time=7677.00.
+Warning: Teleporting vehicle 'Pepoli_12_1315'; waited too long (yield), lane='43[0]_2', time=7693.00.
+Warning: Vehicle 'Costa_50_656' ends teleporting on edge '109[0]', time=7720.00.
+Warning: Vehicle 'Costa_50_471' ends teleporting on edge '65', time=7737.00.
+Warning: Teleporting vehicle 'Silvani_3_1219'; waited too long (yield), lane='113_0', time=7740.00.
+Warning: Teleporting vehicle 'Togliatti_3_767'; waited too long (yield), lane='194_0', time=7741.00.
+Warning: Vehicle 'Pepoli_12_1315' ends teleporting on edge '118', time=7742.00.
+Warning: Vehicle 'Togliatti_3_767' ends teleporting on edge '173', time=7771.00.
+Warning: Teleporting vehicle 'XXI_Aprile_7_433'; waited too long (yield), lane='59_0', time=7780.00.
+Warning: Teleporting vehicle 'Costa_70_698'; waited too long (yield), lane='189[1][1]_0', time=7794.00.
+Warning: Vehicle 'Costa_70_698' ends teleporting on edge '188', time=7794.00.
+Warning: Teleporting vehicle 'XXI_Aprile_1_502'; waited too long (yield), lane='104_1', time=7826.00.
+Warning: Vehicle 'XXI_Aprile_1_502' ends teleporting on edge '24', time=7829.00.
+Warning: Teleporting vehicle 'Pepoli_12_409'; waited too long (yield), lane='19_0', time=7838.00.
+Warning: Teleporting vehicle 'Costa_50_788'; waited too long (yield), lane='56b_0', time=7843.00.
+Warning: Vehicle 'Costa_50_788' ends teleporting on edge '77bc', time=7843.00.
+Warning: Teleporting vehicle 'Pepoli_12_493'; waited too long (yield), lane='50_0', time=7846.00.
+Warning: Vehicle 'Pepoli_12_493' ends teleporting on edge '19', time=7847.00.
+Warning: Vehicle 'Costa_70_652' ends teleporting on edge '116', time=7861.00.
+Warning: Vehicle 'Audinot_12_85' ends teleporting on edge '59', time=7879.00.
+Warning: Vehicle 'Pepoli_12_409' ends teleporting on edge '59', time=7916.00.
+Warning: Teleporting vehicle 'Pepoli_12_366'; waited too long (yield), lane='59_1', time=7920.00.
+Warning: Vehicle 'Pepoli_12_366' ends teleporting on edge '53[0]', time=7922.00.
+Warning: Teleporting vehicle 'Audinot_12_104'; waited too long (yield), lane='131_0', time=8046.00.
+Warning: Teleporting vehicle 'Pepoli_1_1359'; waited too long (yield), lane='43[0]_2', time=8052.00.
+Warning: Teleporting vehicle 'XXI_Aprile_7_434'; waited too long (yield), lane='59_0', time=8086.00.
+Warning: Vehicle 'XXI_Aprile_7_434' ends teleporting on edge '53cd', time=8086.00.
+Warning: Teleporting vehicle 'Costa_700_586'; waited too long (jam), lane='186_0', time=8090.00.
+Warning: Teleporting vehicle 'Costa_50_611'; waited too long (jam), lane='89[1][1]_0', time=8105.00.
+Warning: Teleporting vehicle 'Pepoli_12_415'; waited too long (yield), lane='19_0', time=8142.00.
+Warning: Vehicle 'XXI_Aprile_7_427' ends teleporting on edge '116', time=8144.00.
+Warning: Teleporting vehicle 'Costa_70_682'; waited too long (yield), lane='188_0', time=8149.00.
+Warning: Vehicle 'Costa_70_682' ends teleporting on edge '87[0]', time=8149.00.
+Warning: Vehicle 'Costa_700_586' ends teleporting on edge '116', time=8151.00.
+Warning: Vehicle 'Pepoli_3_1297' ends teleporting on edge '15', time=8156.00.
+Warning: Teleporting vehicle 'Costa_50_704'; waited too long (yield), lane='189[1][1]_0', time=8161.00.
+Warning: Vehicle 'Costa_50_704' ends teleporting on edge '188', time=8161.00.
+Warning: Teleporting vehicle 'Turati_2_54'; waited too long (jam), lane='38_0', time=8169.00.
+Warning: Vehicle 'Turati_2_54' ends teleporting on edge '50', time=8173.00.
+Warning: Teleporting vehicle 'Costa_70_652'; waited too long (yield), lane='46_0', time=8175.00.
+Warning: Vehicle 'Costa_70_652' ends teleporting on edge '113', time=8175.00.
+Warning: Vehicle 'Pepoli_3_1242' ends teleporting on edge '39', time=8209.00.
+Warning: Teleporting vehicle 'Costa_50_795'; waited too long (yield), lane='56b_0', time=8212.00.
+Warning: Vehicle 'Costa_50_795' ends teleporting on edge '77bc', time=8212.00.
+Warning: Vehicle 'Pepoli_12_415' ends teleporting on edge '59', time=8220.00.
+Warning: Teleporting vehicle 'XXI_Aprile_1_472'; waited too long (yield), lane='59_1', time=8226.00.
+Warning: Vehicle 'XXI_Aprile_1_472' ends teleporting on edge '53[0]', time=8228.00.
+Warning: Teleporting vehicle 'Pepoli_3_1132'; waited too long (yield), lane='57[1]_0', time=8284.00.
+Warning: Vehicle 'Audinot_12_104' ends teleporting on edge '57[1]', time=8284.00.
+Warning: Teleporting vehicle 'Silvani_1_975'; waited too long (jam), lane='65_0', time=8321.00.
+Warning: Vehicle 'Costa_50_611' ends teleporting on edge '65', time=8321.00.
+Warning: Teleporting vehicle 'Silvani_1_1093'; waited too long (jam), lane='118_0', time=8330.00.
+Warning: Teleporting vehicle 'Costa_50_481'; waited too long (yield), lane='120_0', time=8336.00.
+Warning: Teleporting vehicle 'Silvani_3_1248'; waited too long (yield), lane='113_0', time=8349.00.
+Warning: Vehicle 'Silvani_3_1248' ends teleporting on edge '118', time=8350.00.
+Warning: Teleporting vehicle 'Audinot_12_105'; waited too long (yield), lane='131_0', time=8351.00.
+Warning: Teleporting vehicle 'Costa_50_568'; waited too long (jam), lane='109[1][1]_0', time=8359.00.
+Warning: Teleporting vehicle 'Silvani_1_1358'; waited too long (yield), lane='34_0', time=8363.00.
+Warning: Vehicle 'Silvani_1_1358' ends teleporting on edge '113', time=8364.00.
+Warning: Teleporting vehicle 'XXI_Aprile_7_434'; waited too long (wrong lane), lane='53[0]_1', time=8390.00.
+Warning: Teleporting vehicle 'XXI_Aprile_7_445'; waited too long (yield), lane='59_0', time=8391.00.
+Warning: Vehicle 'Costa_50_481' ends teleporting on edge '200', time=8403.00.
+Warning: Vehicle 'Audinot_3_100' ends teleporting on edge '15', time=8419.00.
+Warning: Vehicle 'XXI_Aprile_7_433' ends teleporting on edge '116', time=8439.00.
+Warning: Teleporting vehicle 'Silvani_1_346'; waited too long (yield), lane='19_0', time=8446.00.
+Warning: Teleporting vehicle 'Costa_70_686'; waited too long (yield), lane='188_0', time=8453.00.
+Warning: Vehicle 'Costa_70_686' ends teleporting on edge '87[0]', time=8453.00.
+Warning: Teleporting vehicle 'XXI_Aprile_7_427'; waited too long (jam), lane='46_0', time=8479.00.
+Warning: Vehicle 'XXI_Aprile_7_427' ends teleporting on edge '113', time=8479.00.
+Warning: Vehicle 'Silvani_1_1196' ends teleporting on edge '38', time=8494.00.
+Warning: Teleporting vehicle 'Pepoli_12_901'; waited too long (jam), lane='39_0', time=8511.00.
+Warning: Vehicle 'Pepoli_12_901' ends teleporting on edge '35', time=8512.00.
+Warning: Teleporting vehicle 'Silvani_1_592'; waited too long (jam), lane='42_0', time=8514.00.
+Warning: Vehicle 'Silvani_3_1219' ends teleporting on edge '42', time=8514.00.
+Warning: Vehicle 'Silvani_1_346' ends teleporting on edge '59', time=8541.00.
+Warning: Teleporting vehicle 'Pepoli_3_1140'; waited too long (yield), lane='57[1]_0', time=8591.00.
+Warning: Vehicle 'Audinot_12_105' ends teleporting on edge '57[1]', time=8591.00.
+Warning: Teleporting vehicle 'Silvani_2_1127'; waited too long (jam), lane='118_0', time=8645.00.
+Warning: Teleporting vehicle 'Costa_50_484'; waited too long (yield), lane='120_0', time=8650.00.
+Warning: Teleporting vehicle 'Silvani_1_1278'; waited too long (yield), lane='113_0', time=8654.00.
+Warning: Teleporting vehicle 'Pepoli_3_1380'; waited too long (yield), lane='43[0]_2', time=8657.00.
+Warning: Teleporting vehicle 'Audinot_12_106'; waited too long (yield), lane='131_0', time=8657.00.
+Warning: Vehicle 'Pepoli_3_1380' ends teleporting on edge '118', time=8665.00.
+Warning: Teleporting vehicle 'Silvani_3_1360'; waited too long (yield), lane='34_0', time=8669.00.
+Warning: Vehicle 'Silvani_3_1360' ends teleporting on edge '113', time=8670.00.
+Warning: Vehicle 'Costa_50_568' ends teleporting on edge '200', time=8680.00.
+Warning: Vehicle 'Pepoli_1_1359' ends teleporting on edge '159', time=8706.00.
+Warning: Teleporting vehicle 'Togliatti_3_766'; waited too long (jam), lane='173_0', time=8715.00.
+Warning: Vehicle 'Costa_50_484' ends teleporting on edge '200', time=8750.00.
+Warning: Teleporting vehicle 'XXI_Aprile_7_417'; waited too long (jam), lane='87[1][1]_0', time=8771.00.
+Warning: Teleporting vehicle 'Costa_50_702'; waited too long (yield), lane='188_0', time=8781.00.
+Warning: Vehicle 'XXI_Aprile_7_434' ends teleporting on edge '87[0]', time=8781.00.
+Warning: Vehicle 'Silvani_1_1278' ends teleporting on edge '65', time=8788.00.
+Warning: Teleporting vehicle 'XXI_Aprile_7_419'; waited too long (yield), lane='189[1][1]_0', time=8796.00.
+Warning: Vehicle 'XXI_Aprile_7_419' ends teleporting on edge '188', time=8796.00.
+Warning: Teleporting vehicle 'Silvani_1_434'; waited too long (yield), lane='19_0', time=8900.00.
+Warning: Vehicle 'Silvani_1_592' ends teleporting on edge '19', time=8900.00.
+Warning: Teleporting vehicle 'Silvani_2_496'; waited too long (yield), lane='50_0', time=8908.00.
+Warning: Teleporting vehicle 'Costa_50_486'; waited too long (yield), lane='120_0', time=8956.00.
+Warning: Teleporting vehicle 'Pepoli_3_1381'; waited too long (yield), lane='43[0]_2', time=8961.00.
+Warning: Teleporting vehicle 'Audinot_3_107'; waited too long (yield), lane='131_0', time=8962.00.
+Warning: Teleporting vehicle 'Silvani_3_1292'; waited too long (jam), lane='113_0', time=8970.00.
+Warning: Teleporting vehicle 'Costa_70_577'; waited too long (yield), lane='46_0', time=8975.00.
+Warning: Vehicle 'Costa_70_577' ends teleporting on edge '113', time=8975.00.
+Warning: Teleporting vehicle 'Costa_50_656'; waited too long (jam), lane='109[1][1]_0', time=8978.00.
+Warning: Vehicle 'Silvani_1_434' ends teleporting on edge '59', time=8978.00.
+Warning: Vehicle 'Costa_50_656' ends teleporting on edge '120', time=8985.00.
+Warning: Teleporting vehicle 'Silvani_1_1408'; waited too long (yield), lane='34_0', time=8992.00.
+Warning: Vehicle 'Silvani_1_1408' ends teleporting on edge '113', time=8992.00.
+Warning: Vehicle 'XXI_Aprile_7_445' ends teleporting on edge '116', time=8998.00.
+Warning: Vehicle 'Silvani_2_496' ends teleporting on edge '59', time=9049.00.
+Warning: Vehicle 'Costa_50_486' ends teleporting on edge '200', time=9056.00.
+Warning: Vehicle 'XXI_Aprile_7_417' ends teleporting on edge '116', time=9073.00.
+Warning: Teleporting vehicle 'Costa_50_704'; waited too long (yield), lane='188_0', time=9085.00.
+Warning: Vehicle 'Costa_50_704' ends teleporting on edge '87[0]', time=9085.00.
+Warning: Teleporting vehicle 'Silvani_3_1159'; waited too long (jam), lane='118_0', time=9093.00.
+Warning: Vehicle 'Silvani_3_1292' ends teleporting on edge '118', time=9093.00.
+Warning: Vehicle 'Pepoli_3_1132' ends teleporting on edge '15', time=9112.00.
+Warning: Teleporting vehicle 'Silvani_1_592'; waited too long (yield), lane='19_0', time=9202.00.
+Warning: Vehicle 'Silvani_1_592' ends teleporting on edge '59', time=9247.00.
+Warning: Teleporting vehicle 'Costa_50_487'; waited too long (yield), lane='120_0', time=9260.00.
+Warning: Teleporting vehicle 'Pepoli_2_1390'; waited too long (jam), lane='43[0]_2', time=9265.00.
+Warning: Teleporting vehicle 'Audinot_12_108'; waited too long (yield), lane='131_0', time=9267.00.
+Warning: Vehicle 'Togliatti_3_766' ends teleporting on edge '42', time=9279.00.
+Warning: Vehicle 'Costa_50_702' ends teleporting on edge '200', time=9293.00.
+Warning: Teleporting vehicle 'Costa_70_646'; waited too long (jam), lane='89[1][1]_0', time=9324.00.
+Warning: Vehicle 'Audinot_3_107' ends teleporting on edge '62', time=9347.00.
+Warning: Vehicle 'Costa_50_487' ends teleporting on edge '200', time=9360.00.
+Warning: Teleporting vehicle 'Pepoli_12_1287'; waited too long (jam), lane='65_0', time=9378.00.
+Warning: Teleporting vehicle 'Costa_70_715'; waited too long (yield), lane='188_0', time=9403.00.
+Warning: Vehicle 'Costa_70_715' ends teleporting on edge '87[0]', time=9403.00.
+Warning: Teleporting vehicle 'Costa_70_741'; waited too long (yield), lane='189[1][1]_0', time=9416.00.
+Warning: Vehicle 'Costa_70_741' ends teleporting on edge '188', time=9416.00.
+Warning: Vehicle 'Pepoli_3_1140' ends teleporting on edge '15', time=9419.00.
+Warning: Teleporting vehicle 'XXI_Aprile_7_433'; waited too long (yield), lane='46_0', time=9428.00.
+Warning: Vehicle 'XXI_Aprile_7_433' ends teleporting on edge '113', time=9428.00.
+Warning: Vehicle 'Silvani_1_1093' ends teleporting on edge '19', time=9466.00.
+Warning: Vehicle 'Costa_70_646' ends teleporting on edge '116', time=9500.00.
+Warning: Teleporting vehicle 'Pepoli_12_421'; waited too long (yield), lane='19_0', time=9511.00.
+Warning: Vehicle 'Silvani_1_975' ends teleporting on edge '19', time=9511.00.
+Warning: Teleporting vehicle 'Pepoli_12_556'; waited too long (yield), lane='50_0', time=9518.00.
+Warning: Teleporting vehicle 'Pepoli_3_1392'; waited too long (yield), lane='43[0]_2', time=9570.00.
+Warning: Vehicle 'Audinot_12_106' ends teleporting on edge '35', time=9572.00.
+Warning: Teleporting vehicle 'Audinot_3_114'; waited too long (yield), lane='131_0', time=9582.00.
+Warning: Teleporting vehicle 'Pepoli_3_922'; waited too long (jam), lane='159_0', time=9582.00.
+Warning: Vehicle 'Pepoli_3_1381' ends teleporting on edge '159', time=9582.00.
+Warning: Vehicle 'Pepoli_12_421' ends teleporting on edge '59', time=9589.00.
+Warning: Teleporting vehicle 'Silvani_2_712'; waited too long (yield), lane='57[1]_0', time=9650.00.
+Warning: Vehicle 'Pepoli_12_1287' ends teleporting on edge '57[1]', time=9650.00.
+Warning: Teleporting vehicle 'Pepoli_12_1252'; waited too long (yield), lane='57[1]_0', time=9651.00.
+Warning: Vehicle 'Pepoli_2_1390' ends teleporting on edge '57[1]', time=9651.00.
+Warning: Vehicle 'Pepoli_12_556' ends teleporting on edge '59', time=9659.00.
+Warning: Teleporting vehicle 'Silvani_3_1180'; waited too long (jam), lane='118_0', time=9698.00.
+Warning: Vehicle 'Pepoli_3_1392' ends teleporting on edge '118', time=9698.00.
+Warning: Teleporting vehicle 'Pepoli_3_1303'; waited too long (jam), lane='118_0', time=9701.00.
+Warning: Teleporting vehicle 'Costa_50_494'; waited too long (yield), lane='120_0', time=9703.00.
+Warning: Teleporting vehicle 'Costa_50_720'; waited too long (yield), lane='188_0', time=9709.00.
+Warning: Vehicle 'Costa_50_720' ends teleporting on edge '87[0]', time=9709.00.
+Warning: Teleporting vehicle 'Silvani_1_1315'; waited too long (yield), lane='113_0', time=9717.00.
+Warning: Vehicle 'Silvani_1_1315' ends teleporting on edge '118', time=9719.00.
+Warning: Teleporting vehicle 'Silvani_3_1463'; waited too long (yield), lane='34_0', time=9727.00.
+Warning: Vehicle 'Silvani_3_1463' ends teleporting on edge '113', time=9731.00.
+Warning: Teleporting vehicle 'Costa_70_584'; waited too long (yield), lane='46_0', time=9733.00.
+Warning: Vehicle 'Costa_70_584' ends teleporting on edge '113', time=9733.00.
+Warning: Vehicle 'Costa_50_494' ends teleporting on edge '200', time=9803.00.
+Warning: Vehicle 'Pepoli_3_922' ends teleporting on edge '15', time=9816.00.
+Warning: Vehicle 'Audinot_12_108' ends teleporting on edge '42', time=9895.00.
+Warning: Vehicle 'Silvani_2_1127' ends teleporting on edge '59', time=10008.00.
+Warning: Teleporting vehicle 'Costa_50_515'; waited too long (yield), lane='120_0', time=10009.00.
+Warning: Teleporting vehicle 'Audinot_3_117'; waited too long (yield), lane='131_0', time=10012.00.
+Warning: Teleporting vehicle 'Pepoli_12_1409'; waited too long (yield), lane='43[0]_2', time=10026.00.
+Warning: Teleporting vehicle 'Silvani_3_1475'; waited too long (yield), lane='34_0', time=10033.00.
+Warning: Vehicle 'Silvani_3_1475' ends teleporting on edge '113', time=10033.00.
+Warning: Teleporting vehicle 'XXI_Aprile_7_416'; waited too long (yield), lane='46_0', time=10038.00.
+Warning: Vehicle 'XXI_Aprile_7_416' ends teleporting on edge '113', time=10038.00.
+Warning: Vehicle 'Costa_50_515' ends teleporting on edge '65', time=10106.00.
+Warning: Vehicle 'Silvani_3_1159' ends teleporting on edge '15', time=10132.00.
+Warning: Teleporting vehicle 'Pepoli_12_493'; waited too long (yield), lane='19_0', time=10219.00.
+Warning: Teleporting vehicle 'XXI_Aprile_93_562'; waited too long (yield), lane='104_1', time=10226.00.
+Warning: Vehicle 'XXI_Aprile_93_562' ends teleporting on edge '24', time=10226.00.
+Warning: Teleporting vehicle 'Audinot_12_82'; waited too long (yield), lane='50_0', time=10228.00.
+Warning: Teleporting vehicle 'Pepoli_2_837'; waited too long (jam), lane='38_0', time=10245.00.
+Warning: Vehicle 'Pepoli_2_837' ends teleporting on edge '50', time=10248.00.
+Warning: Vehicle 'Pepoli_12_493' ends teleporting on edge '59', time=10261.00.
+Warning: Teleporting vehicle 'Costa_50_518'; waited too long (yield), lane='120_0', time=10314.00.
+Warning: Teleporting vehicle 'Audinot_2_118'; waited too long (yield), lane='131_0', time=10316.00.
+Warning: Teleporting vehicle 'Pepoli_12_1410'; waited too long (jam), lane='43[0]_2', time=10331.00.
+Warning: Vehicle 'Audinot_12_82' ends teleporting on edge '59', time=10352.00.
+Warning: Teleporting vehicle 'Costa_50_631'; waited too long (jam), lane='186_0', time=10358.00.
+Warning: Teleporting vehicle 'Costa_50_666'; waited too long (jam), lane='89[1][1]_0', time=10376.00.
+Warning: Vehicle 'Costa_50_518' ends teleporting on edge '200', time=10414.00.
+Warning: Teleporting vehicle 'Costa_70_738'; waited too long (yield), lane='188_0', time=10416.00.
+Warning: Vehicle 'Costa_70_738' ends teleporting on edge '87[0]', time=10416.00.
+Warning: Vehicle 'Pepoli_12_1410' ends teleporting on edge '118', time=10426.00.
+Warning: Teleporting vehicle 'Silvani_1_1358'; waited too long (yield), lane='113_0', time=10429.00.
+Warning: Teleporting vehicle 'XXI_Aprile_7_519'; waited too long (yield), lane='59_0', time=10480.00.
+Warning: Vehicle 'XXI_Aprile_7_519' ends teleporting on edge '53cd', time=10480.00.
+Warning: Teleporting vehicle 'XXI_Aprile_7_557'; waited too long (jam), lane='24_0', time=10525.00.
+Warning: Teleporting vehicle 'Silvani_1_493'; waited too long (yield), lane='19_0', time=10528.00.
+Warning: Teleporting vehicle 'Pepoli_12_681'; waited too long (yield), lane='50_0', time=10540.00.
+Warning: Vehicle 'Silvani_2_712' ends teleporting on edge '50', time=10540.00.
+Warning: Vehicle 'Audinot_3_114' ends teleporting on edge '38', time=10579.00.
+Warning: Vehicle 'Pepoli_3_1303' ends teleporting on edge '35', time=10595.00.
+Warning: Vehicle 'XXI_Aprile_7_557' ends teleporting on edge '59', time=10603.00.
+Warning: Vehicle 'Costa_50_631' ends teleporting on edge '200', time=10605.00.
+Warning: Vehicle 'Silvani_1_493' ends teleporting on edge '59', time=10606.00.
+Warning: Teleporting vehicle 'Costa_50_519'; waited too long (yield), lane='120_0', time=10618.00.
+Warning: Teleporting vehicle 'Audinot_12_119'; waited too long (yield), lane='131_0', time=10620.00.
+Warning: Vehicle 'Pepoli_12_681' ends teleporting on edge '59', time=10681.00.
+Warning: Vehicle 'Silvani_3_1180' ends teleporting on edge '15', time=10711.00.
+Warning: Vehicle 'Costa_50_519' ends teleporting on edge '200', time=10718.00.
+Warning: Teleporting vehicle 'Silvani_3_1360'; waited too long (jam), lane='113_0', time=10734.00.
+Warning: Vehicle 'Costa_50_666' ends teleporting on edge '200', time=10738.00.
+Warning: Teleporting vehicle 'Pepoli_12_1442'; waited too long (yield), lane='43[0]_2', time=10740.00.
+Warning: Vehicle 'Pepoli_12_1252' ends teleporting on edge '22', time=10796.00.
+Warning: Teleporting vehicle 'Togliatti_2_470'; waited too long (yield), lane='19_0', time=10834.00.
+Warning: Teleporting vehicle 'Silvani_1_553'; waited too long (yield), lane='50_0', time=10846.00.
+Warning: Vehicle 'Togliatti_2_470' ends teleporting on edge '59', time=10912.00.
+Warning: Teleporting vehicle 'Costa_50_521'; waited too long (yield), lane='120_0', time=10923.00.
+Warning: Teleporting vehicle 'Audinot_3_121'; waited too long (yield), lane='131_0', time=10926.00.
+Warning: Vehicle 'Silvani_1_553' ends teleporting on edge '59', time=10987.00.
+Warning: Vehicle 'Costa_50_521' ends teleporting on edge '200', time=11023.00.
+Warning: Vehicle 'Audinot_3_121' ends teleporting on edge '65', time=11023.00.
+Warning: Teleporting vehicle 'Pepoli_8_303'; waited too long (yield), lane='189[1][1]_0', time=11036.00.
+Warning: Vehicle 'Pepoli_8_303' ends teleporting on edge '188', time=11036.00.
+Warning: Teleporting vehicle 'Pepoli_3_1443'; waited too long (yield), lane='43[0]_2', time=11046.00.
+Warning: Vehicle 'Audinot_3_117' ends teleporting on edge '15', time=11051.00.
+Warning: Vehicle 'Pepoli_12_1409' ends teleporting on edge '38', time=11157.00.
+Warning: Vehicle 'Audinot_2_118' ends teleporting on edge '38', time=11202.00.
+Warning: Vehicle 'Audinot_12_119' ends teleporting on edge '159', time=11218.00.
+Warning: Vehicle 'Silvani_1_1358' ends teleporting on edge '42', time=11231.00.
+Warning: Teleporting vehicle 'Audinot_3_123'; waited too long (yield), lane='131_0', time=11233.00.
+Warning: Vehicle 'Pepoli_12_1442' ends teleporting on edge '62', time=11298.00.
+Warning: Teleporting vehicle 'Silvani_3_1289'; waited too long (jam), lane='118_0', time=11328.00.
+Warning: Teleporting vehicle 'Costa_50_526'; waited too long (yield), lane='120_0', time=11332.00.
+Warning: Vehicle 'Pepoli_3_1443' ends teleporting on edge '57[0]', time=11337.00.
+Warning: Teleporting vehicle 'Silvani_1_1415'; waited too long (yield), lane='113_0', time=11347.00.
+Warning: Vehicle 'Silvani_1_1415' ends teleporting on edge '118', time=11347.00.
+Warning: Vehicle 'Audinot_3_123' ends teleporting on edge '57[0]', time=11365.00.
+Warning: Teleporting vehicle 'Costa_50_753'; waited too long (yield), lane='188_0', time=11382.00.
+Warning: Vehicle 'Costa_50_753' ends teleporting on edge '87[0]', time=11382.00.
+Warning: Teleporting vehicle 'Costa_50_777'; waited too long (yield), lane='189[1][1]_0', time=11391.00.
+Warning: Vehicle 'Costa_50_777' ends teleporting on edge '188', time=11393.00.
+Warning: Vehicle 'Costa_50_526' ends teleporting on edge '65', time=11394.00.
+Warning: Teleporting vehicle 'XXI_Aprile_7_539'; waited too long (yield), lane='59_0', time=11445.00.
+Warning: Vehicle 'XXI_Aprile_7_539' ends teleporting on edge '53cd', time=11445.00.
+Warning: Teleporting vehicle 'Audinot_5_124'; waited too long (yield), lane='131_0', time=11538.00.
+Warning: Vehicle 'Silvani_3_1360' ends teleporting on edge '15', time=11606.00.
+Warning: Vehicle 'Audinot_5_124' ends teleporting on edge '200', time=11638.00.
+Warning: Teleporting vehicle 'Costa_50_534'; waited too long (yield), lane='120_0', time=11642.00.
+Warning: Vehicle 'Costa_50_534' ends teleporting on edge '200', time=11742.00.
+Warning: Teleporting vehicle 'Costa_50_795'; waited too long (yield), lane='189[1][1]_0', time=11764.00.
+Warning: Vehicle 'Costa_50_795' ends teleporting on edge '188', time=11764.00.
+Warning: Vehicle 'Silvani_3_1289' ends teleporting on edge '15', time=11864.00.
+Simulation ended at time: 12588.00.
+Reason: All vehicles have left the simulation.
+Performance:
+ Duration: 64.55s
+ Real time factor: 195.006
+ UPS: 177082.894411
+Vehicles:
+ Inserted: 6133
+ Running: 0
+ Waiting: 0
+ Teleports: 320 (Jam: 76, Yield: 241, Wrong Lane: 3)

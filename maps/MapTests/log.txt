@@ -1,0 +1,14 @@
+Loading net-file from '/Users/instafiore/Git/tplp-traffic/maps/MapTests/pollution_test.net.xml' ... done (1ms).
+Loading additional-files from '/Users/instafiore/Git/tplp-traffic/maps/MapTests/vTypes.rou.xml' ... done (1ms).
+Loading done.
+Running "/opt/homebrew/Cellar/sumo/1.20.0/share/sumo/bin/netedit" --registry-viewport --sumocfg-file "/Users/instafiore/Git/tplp-traffic/maps/MapTests/config_file.sumocfg" --ignore.routeelements &.
+Simulation ended at time: 0.00
+Performance: 
+ Duration: 392.23s
+ Real time factor: 0
+ UPS: 0.000000
+Vehicles: 
+ Inserted: 0 (Loaded: 2)
+ Running: 0
+ Waiting: 0
+
