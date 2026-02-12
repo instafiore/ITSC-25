@@ -27,7 +27,8 @@ def main():
     args = Arguments()
 
     args.rules = "v2.1.2"
-    args.map = "acosta"
+    args.map = "mk"
+    # args.map = "acosta"
     args.HORIZON = 5000
     args.experimentSession = True
     args.emissionMapName = "emissionMapEV2"
@@ -37,8 +38,8 @@ def main():
     # args.messageLog = f"emission map with electric cars, version rules {args.rules}, HORIZON {args.HORIZON}"
     args.messageLog = f" {args.run_name} , version rules {args.rules}, HORIZON {args.HORIZON}, emission map {args.emissionMapName}, preprocessor {args.preprocessor}"
 
-    # args.inputFile = "maps/MK-sim/MK_sim.sumocfg"
-    # args.networkFile = "maps/MK-sim/net.net.xml"
+    args.inputFile = "maps/MK-sim/MK_sim.sumocfg"
+    args.networkFile = "maps/MK-sim/net.net.xml"
 
     logger = CloudLogger(args.experiment) if args.cloud else LocalLogger(args.experiment, args)
 

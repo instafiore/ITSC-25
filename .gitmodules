@@ -1,3 +1,0 @@
-[submodule "python/python/pyspel"]
-	path = python/pyspel
-	url = https://github.com/matteocarde/pyspel.git
